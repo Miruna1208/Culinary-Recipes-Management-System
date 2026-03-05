@@ -43,5 +43,3 @@ The system provides functionality for managing recipes, including:
 - Deleting recipes
 - Managing recipe ingredients
 - Structured storage of culinary data
-
-## Project Structure
